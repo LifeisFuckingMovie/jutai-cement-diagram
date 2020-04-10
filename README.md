@@ -1,14 +1,14 @@
-# topology-class-diagram
+# jutai-cement-diagram
 
-Topology-class-diagram is a class diagram tool using le5le-topology.
+Jutai-cement-diagram is a cement diagram tool using le5le-topology.
 
 # Development
 
 ```
-[libs/topology-class-diagram#] yarn or npm install
+[jutai-cement-diagram#] yarn or npm install
 
 # build
-[libs/topology-class-diagram#] npm run build
+[jutai-cement-diagram#] npm run build
 
 ```
 
@@ -16,8 +16,5 @@ Topology-class-diagram is a class diagram tool using le5le-topology.
 
 If you have any comment or advice, please report your issue, or make any change as you wish and submit an PR.
 
-alsmile123@qq.com
+2413276072@qq.com
 
-# License
-
-MIT © le5le.com
