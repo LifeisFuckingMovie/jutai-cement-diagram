@@ -1,0 +1,26 @@
+{
+  "name": "jutai-cement-diagram",
+  "version": "0.0.2",
+  "description": "A cement diagram tool using le5le-topology.",
+  "main": "index.js",
+  "scripts": {
+    "copy": "copyfiles  package.json ../../dist/jutai-cement-diagram/",
+    "build": "tsc && npm run copy"
+  },
+  "keywords": [
+    "jutai",
+    "cement",
+    "diagram",
+    "canvas"
+  ],
+  "author": "2413276072@qq.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RecallMxt/jutai-cement-diagram.git"
+  },
+  "devDependencies": {
+    "copyfiles": "^2.1.1",
+    "typescript": "~3.4.3"
+  }
+}
